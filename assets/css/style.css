@@ -1,9 +1,4 @@
-/**
-* Template Name: eNno - v4.7.0
-* Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 /*--------------------------------------------------------------
 # Variables
 --------------------------------------------------------------*/
@@ -1189,4 +1184,14 @@ section {
     -moz-text-align-last: center;
     text-align-last: center;
   }
+}
+
+.robbie-form .form-input {
+  padding: 4px;
+  border: 1px solid #cdd1d9;
+  border-radius: 4px;
+}
+
+.robbie-form {
+  margin: 0 20px;
 }
