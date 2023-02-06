@@ -1072,6 +1072,29 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Chat
+--------------------------------------------------------------*/
+#chat .btn-primary {
+  background: var(--color-primary);
+  border: 4;
+  border-color: #fff;
+  padding: 10px 14px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 80px;
+  position: fixed;
+  left: 15px;
+  bottom: 15px;
+  z-index: 99;
+}
+#chat .icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+  font-weight: 600;
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
